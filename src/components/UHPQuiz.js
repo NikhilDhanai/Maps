@@ -136,14 +136,14 @@ const UHPQuiz = () => {
             padding: "10px 20px",
             fontSize: "18px",
             fontWeight: "bold",
-            backgroundColor: "#4CAF50",
+            backgroundColor: "#0E5793",
             color: "white",
             border: "none",
             borderRadius: "5px",
             cursor: "pointer",
           }}
         >
-          Go to Ramsar Quiz 🌿
+          Go to Ramsar Quiz 🌊
         </button>
       </div>
     </div>
