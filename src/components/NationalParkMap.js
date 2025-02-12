@@ -20,7 +20,7 @@ const correctIcon = new L.Icon({
 const NationalParkMap = ({
   nationalParks,
   center,
-  zoom = 5,
+  zoom = 5.5,
   isZoomable = true,
   checkAnswer,
   answeredParks,
