@@ -40,6 +40,7 @@ const NationalParkMap = ({
       scrollWheelZoom={isZoomable} // 🔒 Disable zoom via scroll
       doubleClickZoom={isZoomable} // 🔒 Disable zoom via double-click
       touchZoom={isZoomable} // 🔒 Disable touch-based zooming
+      className="responsive-map"
     >
       {/* 🎯 Base Map Layer */}
       <TileLayer
