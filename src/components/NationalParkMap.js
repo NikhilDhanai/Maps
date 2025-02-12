@@ -31,7 +31,7 @@ const NationalParkMap = ({
       zoom={zoom}
       style={{
         height: "80vh",
-        width: "75%",
+        width: "65%",
         border: "2px solid black",
         margin: "0 auto",
       }}
